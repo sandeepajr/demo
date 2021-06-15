@@ -1,0 +1,40 @@
+1) 
+L1 = [1,2,[],[],3,4,[],[]]
+Remove empty list from the given list
+
+Solution:
+L1 = [i for i in x if i]
+
+2)L1 = [1,2,3,4]
+Convert this list into this format {1:2,3:4}
+
+3)Usage of Super keyword
+4)what is string replication *operator?
+5)Python range and xrange difference 
+6)what are pytest fixtures?
+
+read 5gb file
+Can we add list to sort
+Is sort mutable ?
+How to make sort mutable?
+How to make dictionary ordered?
+How to extend the functionalities of a function?
+requests put vs post?
+What happens when we commit without -m option?
+How to commit without git add ing file?
+git rebase ?
+Re search vs match
+Python version of grep
+Find line numbers having particular string count
+os.system vs os.     Diff
+os.path.join
+sys.argv
+yaml vs json files difference
+Generator vs iterator
+Decorator example
+calling lambda function
+replace a word/ replace all words in a file
+ramarao k: du vs df command
+read binary file
+cookies in restapi
+
